@@ -1,5 +1,5 @@
 ## NO IRL
-No more In Real Life Meeting or Events.  Go online or go home!
+No more In Real Life meeting or events.  Go online or go home!
 
 ## The Logo
 ![NO IRL](no-irl.png)
