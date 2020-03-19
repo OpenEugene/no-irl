@@ -2,7 +2,7 @@
 No more In Real Life meetings or events.  Go online or go home!
 
 ## The Logo
-![NO IRL](no-irl.png)![NO IRL](no-irl.svg)
+![NO IRL](no-irl.png)
 
 Feel free to use this logo liberally (or even improve it!)
 
